@@ -1,25 +1,5 @@
+# Package Bug Example
 
-# packagebugex
-
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of packagebugex is to ...
-
-## Installation
-
-You can install the released version of packagebugex from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("packagebugex")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(packagebugex)
-## basic example code
-```
+This repository is meant to demonstrate that accessing package data at
+package intall time causes an error.
 
